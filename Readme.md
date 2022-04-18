@@ -22,3 +22,5 @@
         <a href="https://whittieres.seattleschools.org">Whittier Elementary</a>
     </li>
     </ol>
+    
+<h3> Research Interests </h3>
